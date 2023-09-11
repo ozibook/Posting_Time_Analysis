@@ -1,8 +1,5 @@
 # Posting Time Analysis
 
-Add the code after getting the access for the code.
-File Link : 
-
 ### Task Description
 The goal of this task is to conduct a comprehensive analysis of the posting times of our competitors' LinkedIn content. By examining the correlation between post timestamps and key engagement metrics such as likes, comments, and engagement rate, this analysis aims to provide valuable insights into the optimal timing for sharing LinkedIn posts. The primary objective is to determine when our company's LinkedIn posts are most likely to resonate with the audience and achieve higher levels of engagement. This research will enable us to make informed decisions about the timing of our LinkedIn content sharing, ultimately enhancing our outreach and impact within the LinkedIn community.
 
