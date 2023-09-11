@@ -3,7 +3,7 @@
 ### Task Description
 The goal of this task is to conduct a comprehensive analysis of the posting times of our competitors' LinkedIn content. By examining the correlation between post timestamps and key engagement metrics such as likes, comments, and engagement rate, this analysis aims to provide valuable insights into the optimal timing for sharing LinkedIn posts. The primary objective is to determine when our company's LinkedIn posts are most likely to resonate with the audience and achieve higher levels of engagement. This research will enable us to make informed decisions about the timing of our LinkedIn content sharing, ultimately enhancing our outreach and impact within the LinkedIn community.
 
-[Go to the notion page for detail understanding of the task↗️](https://docs.google.com/document/d/1lpqrSfYIm4M5RGakFS-gzObmP9jVybTxDKrgsuAAelc/edit#heading=h.vcqhms74oo6)
+[Go to the notion page for detail understanding of the task↗️](https://docs.google.com/document/d/1lpqrSfYIm4M5RGakFS-gzObmP9jVybTxDKrgsuAAelc/edit#heading=h.7ivjt4pr8s80)
 
 ### Task Objective🎯
 The Objective of this task is to determine the optimal time slots for posting on LinkedIn based on data-driven analysis and experiments for Ozigen.
