@@ -7,10 +7,13 @@ The goal of this task is to conduct a comprehensive analysis of the posting time
 
 ### Task Objective🎯
 The Objective of this task is to determine the optimal time slots for posting on LinkedIn based on data-driven analysis and experiments for Ozigen.
-
-### Code Explanation
-* Extracting Timestamps of Posts
+<details>
+ <summary>Code Explanation</summary>
+ 
+  - Extracting Timestamps of Posts
 ![image](https://github.com/ozibook/Posting_Time_Analysis/assets/144370840/b4dd6bee-2614-4a84-b81c-6d617e43644d)
+</details>
+
 
 ### 📁File Details
 #### 1. Excel File Format:
