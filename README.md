@@ -47,7 +47,7 @@ You should now see the 'Timestamp UTC' and 'Timestamp IST' columns populated wit
 
  <details>
  <summary>
-  **Code Explanation**
+  Code Explanation
  </summary>
  
   - Extracting Timestamps of Posts
