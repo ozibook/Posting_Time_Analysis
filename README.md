@@ -7,13 +7,6 @@ The goal of this task is to conduct a comprehensive analysis of the posting time
 
 ## Task Objective🎯
 The Objective of this task is to determine the optimal time slots for posting on LinkedIn based on data-driven analysis and experiments for Ozigen.
-<details>
- <summary>Code Explanation</summary>
- 
-  - Extracting Timestamps of Posts
-![image](https://github.com/ozibook/Posting_Time_Analysis/assets/144370840/b4dd6bee-2614-4a84-b81c-6d617e43644d)
-</details>
-
 
 ## File Details📁
 ### 1. Excel File Format:
@@ -51,7 +44,15 @@ You should now see the 'Timestamp UTC' and 'Timestamp IST' columns populated wit
 * The extracted Unix timestamp is then converted to human-readable date formats in both UTC and IST.
 
 * The updated data is saved back to the original Excel file.
+
+ <details>
+ <summary>**Code Explanation**</summary>
  
+  - Extracting Timestamps of Posts
+![image](https://github.com/ozibook/Posting_Time_Analysis/assets/144370840/b4dd6bee-2614-4a84-b81c-6d617e43644d)
+</details>
+
+
 
 ## Installation Guide👨‍💻
 The following libraries are required to run the code<br>
