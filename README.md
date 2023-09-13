@@ -67,7 +67,9 @@ Extracting Timestamps of Posts
  </summary>
 
 
-1. This Pthon script imports necessary modules: `re` for regular expressions, `datetime` for working with dates and times, `pandas` as `pd` for data manipulation. It defines functions for extracting a post ID from a URL, converting      the ID to a Unix timestamp, and converting a Unix timestamp to a human-readable date in either UTC or IST timezones.
+
+
+1. This Python script imports necessary modules: `re` for regular expressions, `datetime` for working with dates and times, `pandas` as `pd` for data manipulation. It defines functions for extracting a post ID from a URL, converting      the ID to a Unix timestamp, and converting a Unix timestamp to a human-readable date in either UTC or IST timezones.
 2. The `process_xlsx_file` function processes a given DataFrame, adding 'Timestamp UTC' and 'Timestamp IST' columns, and populates them by extracting post IDs from the 'URL' column. Finally, it applies the `process_xlsx_file` function    to a DataFrame named `df_merged`, producing a new DataFrame `result_df` with additional timestamp information in both UTC and IST, which can be used for further analysis or display.
  
   ![image](https://github.com/ozibook/Posting_Time_Analysis/assets/144370840/76280690-2515-4ee5-ad43-51b1fe21228f)
